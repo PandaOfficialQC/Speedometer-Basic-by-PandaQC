@@ -12,7 +12,7 @@ https://streamable.com/uqx48q
 ## Comment l'installer
 
 * Copier et coller ```speedometer``` dossier vers ```resources```
-* Ajouter ```start speedometer``` à ton ```server.cfg``` Dossier
+* Ajouter ```start speedometer``` à ton ```server.cfg``` ou ```resources.cfg```  (pour ceux qui le save pas)
 
 
 
