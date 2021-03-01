@@ -6,7 +6,7 @@ le speedometer simple a refaire, car je reçois trop de me mp pour dire que
 
 ## Demo
 
-https://streamable.com/uqx48q
+https://streamable.com/376ytq
 
 
 ## Comment l'installer
