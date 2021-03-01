@@ -3,6 +3,12 @@ le speedometer simple a refaire, car je reçois trop de me mp pour dire que
 "vous pouvez me donnez le style.css" je me suis dis de la leak voilà voilà bonne journée
 
 
+
+## Demo
+
+https://streamable.com/uqx48q
+
+
 ## Comment l'installer
 
 * Copier et coller ```speedometer``` dossier vers ```resources```
