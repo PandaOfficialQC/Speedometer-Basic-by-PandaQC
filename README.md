@@ -5,23 +5,9 @@
 
 ## How to install
 
-* Copy and paste ```speedometer``` folder to ```resources```
-* Add ```start speedometer``` to your ```server.cfg``` file
-
-## Files
-
-* ```ui/script.js``` JS for NUI elements
-* ```ui/styles.scss``` use this to edit CSS if you are comfortable with CSS pre-processor (must be compiled)
-
+* Copier et coller ```speedometer``` dossier vers ```resources```
+* Ajouter ```start speedometer``` à ton ```server.cfg``` Dossier
+* 
 ## Credits & licence
 
 Nicolas Marx (alias [Naiko](https://twitter.com/naikzer_)) is the only owner of these scripts. You are free to use and edit the source code as you want for personal or commercial use. 
-
-## Other UIs
-
-* [Character Creator](../skincreator)
-* [Menu](../menu)
-* [Speedometer](../speedometer) 
-* [Inventory]() 
-* [Messaging service]() 
-* [Hunger/Thirst](../hungerthirst)  
