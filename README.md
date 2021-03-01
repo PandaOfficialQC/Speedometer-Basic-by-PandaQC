@@ -13,7 +13,9 @@ https://streamable.com/uqx48q
 
 * Copier et coller ```speedometer``` dossier vers ```resources```
 * Ajouter ```start speedometer``` à ton ```server.cfg``` Dossier
-* 
+
+
+
 ## Credits & licence
 
 Nicolas Marx (alias [Naiko](https://twitter.com/naikzer_)) is the only owner of these scripts. You are free to use and edit the source code as you want for personal or commercial use. 
