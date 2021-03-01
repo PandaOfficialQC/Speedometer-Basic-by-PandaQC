@@ -1,9 +1,9 @@
 # Speedometer
+le speedometer simple a refaire, car je reçois trop de me mp pour dire que 
+"vous pouvez me donnez le style.css" je me suis dis de la leak voilà voilà bonne journée
 
-**Do not use these scripts if you are not comfortable with development.**
-**If you have some issues with code, ask the community on the official [FiveM's topic](https://forum.fivem.net/t/preview-enhanced-hud/634217).**
 
-## How to install
+## Comment l'installer
 
 * Copier et coller ```speedometer``` dossier vers ```resources```
 * Ajouter ```start speedometer``` à ton ```server.cfg``` Dossier
